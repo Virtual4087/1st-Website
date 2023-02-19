@@ -1,0 +1,762 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: #f5f0f0;
+}
+
+.Top{
+  position: absolute;
+  width: 100%;
+  height: 228px;
+  left: 0px;
+  top: 0px;
+  
+  background: linear-gradient(225.52deg, #271A00 0.45%, rgba(0, 0, 0, 0.982162) 100.47%);
+}
+
+.Upper_part .First{
+  position: absolute;
+  height: 20px;
+  left: 46.87%;
+  right: 47.61%;
+  top: 20px;
+  
+  font-family: 'DMSans';
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: -0.376923px;
+  
+  color: #ffffff;
+}
+
+.Upper_part .Second{
+  position: absolute;
+  height: 20px;
+  left: 35.73%;
+  right: 58.75%;
+  top: 20px;
+  
+  font-family: 'DMSans';
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: -0.376923px;
+  
+  color: #ffffff;
+}
+
+.Upper_part .Third{
+  position: absolute;
+  height: 20px;
+  left: 58%;
+  right: 36.48%;
+  top: 20px;
+  
+  font-family: 'DMSans';
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: -0.376923px;
+  
+  color: #ffffff;
+
+}
+
+.Upper_part .Fourth{
+  position: absolute;
+  height: 20px;
+  left: 69.13%;
+  right: 25.35%;
+  top: 20px;
+  
+  font-family: 'DMSans';
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: -0.376923px;
+  
+  color: #ffffff;
+
+}
+
+.Upper_part .Registration1{
+  position: absolute;
+  left: 79%;
+  right: 220px;
+  top: 23px;
+  height: 43px;
+
+  
+  background: #FFAC12;
+  border-radius: 0px;
+}
+
+.Upper_part .Registration1 .text{
+  font-family: 'DMSans';
+  font-size: 17px;
+  line-height: 20px;
+  letter-spacing: -0.427179px;
+  color: #000000;
+
+  position: absolute;
+  left: 38px;
+  top: -5px;
+}
+
+.line{
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  left: 0px;
+  top: 100px; 
+  background: #FFFFFF;
+  mix-blend-mode: normal;
+  opacity: 0.1;
+
+}
+
+.Lower_part .Product_name{
+  position: absolute;
+  height: 42px;
+  left: 11%;
+  top: 98px;
+  
+  font-family: 'DMSans';
+  font-size: 32px;
+  line-height: 38px;
+  letter-spacing: 0.4px;
+  
+  color: #ffffff;
+}
+    
+.Lower_part .Product_price{
+  position: absolute;
+  height: 42px;
+  right: 220px;
+  top: 98px;
+  
+  font-family: 'DMSans';
+  font-size: 32px;
+  line-height: 38px;
+  text-align: right;
+  letter-spacing: 0.4;
+  
+  color: #FFFFFF;
+}
+
+.Lower_part .Address{
+  position: absolute;
+  height: 24px;
+  left: 11%;
+  top: 160px;
+  
+  font-family: 'DMSans';
+  font-size: 15px;
+  line-height: 24px;
+  
+  letter-spacing: 0.3px;
+  
+  color: #FFFFFF;
+  
+  mix-blend-mode: normal;
+  opacity: 0.6;
+}
+
+.Lower_part .Rate{
+  position: absolute;
+  height: 24px;
+  right: 220px;
+  top: 160px;
+  
+  font-family: 'DMSans';
+  font-size: 15px;
+  line-height: 24px;
+  
+  letter-spacing: 0.3px;
+  
+  color: #FFFFFF;
+  
+  mix-blend-mode: normal;
+  opacity: 0.6;
+
+}
+    
+.Images .Image1{
+  position: absolute;
+  width: 704px;
+  height: 520px;
+  left: 185px;
+  top: 288px;
+    
+}
+
+.Images .Image2{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 185px;
+  top: 829px;
+} 
+
+.Images .Image3{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 289px;
+  top: 829px;
+}
+
+.Images .Image4{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 393px;
+  top: 829px; 
+}
+
+.Images .Image5{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 497px;
+  top: 828px;
+}
+
+.Images .Image6{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 601px;
+  top: 828px;
+}
+
+.Images .Image7{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 705px;
+  top: 828px;  
+}
+
+.Images .Image8{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 809px;
+  top: 828px;
+}
+
+.Main_body .Form{
+  position: absolute;
+  width: 336px;
+  height: 520px;
+  left: 1050px;
+  top: 288px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 32px 34px rgba(0, 0, 0, 0.133714);
+  border-radius: 0px;
+}
+
+.Form .Profile_box{
+  position: absolute;
+  left: 7%;
+  right: 7%;
+  top: 4%;
+  bottom: 80%;
+  
+  background: #b6b0b04b;
+  border-radius: 10px;
+}
+
+.Profile_box .Profile_picture{
+  height: 50px;
+  position: absolute;
+  left: 7%;
+  right: 80.74%;
+  top: 20%;
+  border-radius: 50%;
+}
+
+.Profile_box .Name{
+  position: absolute;
+  height: 20px;
+  left: 27%;
+  top: 9%;
+  
+  font-family: 'DMSans';
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: -0.01px;
+  
+  color: #000000;
+}
+
+.Profile_box .View_profile{
+  text-decoration: none;
+  position: absolute;
+  height: 17px;
+  left: 27.5%;
+  top: 46%;
+  
+  font-family: 'DMSans';
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: -0.326667px;
+  
+  color: #FFAC12;
+}
+
+.Form .Input_box{
+  position: absolute;
+  top: 24%;
+  border-radius: 50px;
+  left: 7.5%;
+
+}
+
+.Input_box .Button{
+  height: 80px; 
+  width: 280px; 
+  background-color: black; 
+  color: aliceblue; 
+  font-family: 'DMSans'; 
+  font-size: 17px; 
+  line-height: 20px; 
+  letter-spacing: -0.427179px;
+}
+
+.Main_body .Details{
+  position: absolute;
+
+  width: 704px;
+  height: 170px;
+  left: 185px;
+  top: 940px;
+
+  background: #FFFFFF;
+  box-shadow: 0px 32px 34px rgba(0, 0, 0, 0.133714);
+}
+
+.Details .Line1{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 58.5%;
+  bottom: 40.82%;
+  
+  background: #E4E4E4;
+}
+
+.Details .Line2{
+  position: absolute;
+  left: 19.89%;
+  right: 79.97%;
+  top: 59.18%;
+  bottom: 0%;
+  
+  background: #E4E4E4;
+}
+
+.Details .Line3{
+  position: absolute;
+  left: 39.91%;
+  right: 59.94%;
+  top: 59.18%;
+  bottom: 0%;
+  
+  background: #E4E4E4;
+}
+
+.Details .Line4{
+  position: absolute;
+  left: 59.94%;
+  right: 39.91%;
+  top: 59.18%;
+  bottom: 0%;
+  
+  background: #E4E4E4;
+}
+
+.Details .Line5{
+  position: absolute;
+  left: 79.97%;
+  right: 19.89%;
+  top: 59.18%;
+  bottom: 0%;
+  
+  background: #E4E4E4;
+}
+
+.Details .Icon1{
+  position: absolute;
+  left: 2.73%;
+  right: 62.73%;
+  top: 25.02%;
+  bottom: 61.24%;
+  
+  background: #000000;
+
+}
+
+.Main_body .Description{
+  position: absolute;
+  left: 185px;
+  width: 704px;
+  top: 1175px;
+  height: 450px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 32px 34px rgba(0, 0, 0, 0.133714);
+
+}
+
+.Description .Line{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 19.83%;
+  bottom: 79.92%;
+  
+  background: #E4E4E4;
+}
+
+.Main_body .Features{
+  position: absolute;
+  left: 185px;
+  width: 704px;
+  top: 1700px;
+  height: 300px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 32px 34px rgba(0, 0, 0, 0.133714);
+}
+
+.Features .Line{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 21.83%;
+  bottom: 77.92%;
+  
+  background: #E4E4E4;
+}
+
+.Features .Facilities{
+  font-family: 'DMSans'; font-size: 15px; line-height: 22px; letter-spacing: -0.376923px; color: #000000; mix-blend-mode: normal; opacity: 0.6;
+}
+
+.Main_body .Gradient_line{
+  position: absolute;
+  left: 185px;
+  width: 200px;
+  top: 2200px;
+  height: 6px;
+  
+  background: linear-gradient(90deg, #FFAC12 0%, #000000 94.96%);
+  border-radius: 2px;
+}
+
+.Main_body .Listings{
+  position: absolute;
+  height: 65px;
+  left: 185px;
+  top: 2185px;
+  
+  font-family: 'DMSans';
+  font-size: 50px;
+  line-height: 59px;
+  letter-spacing: -1.25641px;
+  
+  color: #000000;
+}
+
+.Main_body .House1{
+  position: absolute; 
+  left: 185px; 
+  top: 2400px; 
+  width: 336px; 
+  height: 416px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 32px 34px rgba(0, 0, 0, 0.133714);
+}
+
+.Main_body .House2{
+  position: absolute; 
+  left: 550px; 
+  top: 2400px; 
+  width: 336px; 
+  height: 416px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 32px 34px rgba(0, 0, 0, 0.133714); 
+} 
+
+.Main_body .House3{
+  position: absolute; 
+  left: 915px; 
+  top: 2400px; 
+  width: 336px; 
+  height: 416px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 32px 34px rgba(0, 0, 0, 0.133714);
+
+}
+
+.House1 .Line1{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 85.41%;
+  bottom: 14.35%;
+  
+  background: #E4E4E4;
+}
+
+.House1 .Line2{
+  position: absolute;
+  left: 33.33%;
+  right: 66.37%;
+  top: 85.65%;
+  bottom: 0%;
+  
+  background: #E4E4E4;
+}
+
+.House1 .Line3{
+  position: absolute;
+  left: 66.96%;
+  right: 32.74%;
+  top: 85.65%;
+  bottom: 0%;
+  
+  background: #E4E4E4;
+}
+
+.House2 .Line1{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 85.41%;
+  bottom: 14.35%;
+  
+  background: #E4E4E4;
+}
+
+.House2 .Line2{
+  position: absolute;
+  left: 33.33%;
+  right: 66.37%;
+  top: 85.65%;
+  bottom: 0%;
+  
+  background: #E4E4E4;
+}
+
+.House2 .Line3{
+  position: absolute;
+  left: 66.96%;
+  right: 32.74%;
+  top: 85.65%;
+  bottom: 0%;
+  
+  background: #E4E4E4;
+}
+
+.House3 .Line1{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 85.41%;
+  bottom: 14.35%;
+  
+  background: #E4E4E4;
+}
+
+.House3 .Line2{
+  position: absolute;
+  left: 33.33%;
+  right: 66.37%;
+  top: 85.65%;
+  bottom: 0%;
+  
+  background: #E4E4E4;
+}
+
+.House3 .Line3{
+  position: absolute;
+  left: 66.96%;
+  right: 32.74%;
+  top: 85.65%;
+  bottom: 0%;
+  
+  background: #E4E4E4;
+}
+
+.Bottom{
+  position: absolute;
+  width: 100%;
+  height: 600px;
+  left: 0px;
+  top: 3050px;
+  
+  background: linear-gradient(225.52deg, #271A00 0.45%, rgba(0, 0, 0, 0.982162) 100.47%);
+}
+
+.Bottom .Slogan1{
+  position: absolute;
+  height: 55px;
+  left: 185px;
+  top: 60px;
+  
+  font-family: 'DMSans';
+  font-size: 42px;
+  line-height: 49px;
+  letter-spacing: -1.05538px;
+  
+  color: #FFFFFF;
+}
+
+.Bottom .Slogan2{
+  position: absolute;
+  height: 55px;
+  left: 525px;
+  top: 60px;
+  
+  font-family: 'DMSans';
+  font-size: 42px;
+  line-height: 49px;
+  letter-spacing: -1.05538px;
+  
+  background: linear-gradient(139.15deg, #FFAC12 5.46%, #C87224 96.96%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.Bottom .Registration2{
+  position: absolute;
+  width: 200px;
+  height: 65px;
+  left: 1400px;
+  top: 99px;
+  
+  background: #FFAC12;
+  border-radius: 0px;
+}
+
+.Registration2 p{
+  position: absolute;
+  height: 22px;
+  left: 52px;
+  top: 8px;
+  
+  font-family: 'DMSans';
+  font-size: 17px;
+  line-height: 20px;
+  letter-spacing: -0.427179px;
+  
+  color: #000000;
+}
+
+.Bottom .Line{
+  position: absolute;
+  width: 1415px;
+  height: 1px;
+  left: 185px;
+  top: 230px;
+  
+  background: #FFFFFF;
+  mix-blend-mode: normal;
+  opacity: 0.1;
+}
+
+.Bottom .Facebook{
+  position: absolute;
+  width: 30px;
+  left: 175px;
+  top: 358px;
+}
+
+.Bottom .Twitter{
+  position: absolute;
+  width: 18px;
+  left: 233px;
+  top: 367px;
+}
+
+.Bottom .Instagram{
+  position: absolute;
+  width: 17px;
+  left: 285px;
+  top: 365px;
+}
+
+.Bottom .Column_heading1{
+  position: absolute;
+  height: 20px;
+  left: 1000px;
+  top: 315px;
+  
+  font-family: 'DMSans';
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: -0.376923px;
+  
+  color: #FFFFFF;
+}
+
+.Bottom .Column_heading2{
+  position: absolute;
+  height: 20px;
+  left: 1250px;
+  top: 315px;
+  
+  font-family: 'DMSans';
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: -0.376923px;
+  
+  color: #FFFFFF;
+}
+
+.Bottom .Column_heading3{
+  position: absolute;
+  height: 20px;
+  left: 1500px;
+  top: 315px;
+  
+  font-family: 'DMSans';
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: -0.376923px;
+  
+  color: #FFFFFF;
+}
+
+
+.Column_heading1  p{ 
+  font-family: 'DMSans';
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: -0.376923px;
+  
+  color: #979797;
+}
+
+.Column_heading2  p{ 
+  font-family: 'DMSans';
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: -0.376923px;
+  
+  color: #979797;
+}
+
+.Column_heading3  p{ 
+  font-family: 'DMSans';
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: -0.376923px;
+  
+  color: #979797;
+}
