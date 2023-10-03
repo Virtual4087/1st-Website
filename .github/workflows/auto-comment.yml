@@ -1,10 +1,6 @@
 name: Auto Comment
 on: 
   issues:
-  push:
-    branches:
-      - main
-      - master
   pull_request:
 jobs:
   run:
@@ -16,5 +12,5 @@ jobs:
           issuesOpened: |
             Thank you @{{ author }} for bringing up this issue to help enhance our project even further! I'll review it sooner. 🙌❤️
 
-          pullRequestMerged: |
+          pullRequestOpened: |
             Congratulations @{{ author }}! 🎉 Your pull request has been merged. Thanks for your valuable contribution! 🙌
