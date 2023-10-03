@@ -1,5 +1,11 @@
 name: Auto Comment
-on: [issues, pull_request]
+on: 
+  issues:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
 jobs:
   run:
     runs-on: ubuntu-latest
