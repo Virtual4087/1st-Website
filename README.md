@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Improved footer text readability on small screens
