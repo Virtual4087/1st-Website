@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Modified footer links to open in new tab
