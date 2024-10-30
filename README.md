@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Fixed header overlap with content on scroll
