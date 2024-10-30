@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Expanded clickable area for small buttons
