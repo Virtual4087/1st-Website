@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Added tooltips to icons in sidebar
