@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Increased padding in card text for improved readability
