@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Enabled smooth scrolling on anchor links
