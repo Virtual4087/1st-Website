@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Standardized padding and borders on form fields
