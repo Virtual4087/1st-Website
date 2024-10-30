@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Standardized text size on all button components
