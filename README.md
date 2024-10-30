@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Fixed typo in text for About Us section
