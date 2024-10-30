@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Unified icon styles on buttons across the app
