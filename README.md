@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Applied consistent shadow to card elements
