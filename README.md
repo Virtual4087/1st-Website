@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Improved visibility of close button within modal
