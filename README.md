@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Repaired broken link in FAQ section
