@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Added cursor pointer style to clickable items
