@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Unified button colors throughout the site
