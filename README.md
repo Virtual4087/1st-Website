@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Set max-width on main content area for readability
