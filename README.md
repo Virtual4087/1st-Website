@@ -1,1 +1,1 @@
-Resolved alignment issue with submit button on forms
+Added alt tags to images for better SEO
